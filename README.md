@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adabsmith
 - 👀 I’m interested in software and development
-- 🌱 I’m currently learning PHP and SQL
+- 🌱 JavaScript | PHP | SQL
 - 💞️ I’m looking to collaborate on my projects
 - 📫 How to reach me abdullahadebayo3@gmail.com
 
