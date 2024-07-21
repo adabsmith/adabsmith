@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm a passionate web developer, product designer, 
 🔧 **Technologies & Tools**
 
 - **Languages**: HTML, CSS, JavaScript, Python, C++
-- **Web Development**: React, Node.js, Express, MongoDB
-- **Tools**: Git, Docker, VS Code
+- **Web Development**: React, Node.js, Firebase, MongoDB
+- **Tools**: Git, Framer, Arduino IDE, VS Code
 - **Other**: NoSQL databases, Cloud-based solutions
 
 ---
